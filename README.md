@@ -11,7 +11,9 @@ The ultimate goal is to determine which of the three models performs best for th
 
 ### Methodology:
 Data Collection and Preprocessing: A dataset will be collected that includes information on customer characteristics, website behavior, and past purchases. Data preprocessing will be conducted to handle missing values, encode categorical variables, and normalize numerical variables.
+
 Model Training and Evaluation: Each of the three machine learning models will be trained using a cross-validation technique to prevent overfitting. The performance of each model will be evaluated using metrics like accuracy, recall, and AUC (Area Under the ROC Curve).
+
 Best Model Selection: The model with the best performance based on the evaluation will be selected.
 
 ### Conclusion:
