@@ -21,6 +21,7 @@ The neural network model's higher AUC and sensitivity indicate its greater abili
 
 #### Additional Information:
 AUC (Area Under the ROC Curve): this metric measures the ability of a model to distinguish between two classes (e.g., customers who generate revenue and those who do not).
+
 Sensitivity: The proportion of actual positive cases that are correctly identified by the model.
 
 In this context, sensitivity is more important than other metrics because it is crucial to identify as many customers as possible who are likely to generate revenue.
