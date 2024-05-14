@@ -17,7 +17,7 @@ Model Training and Evaluation: Each of the three machine learning models will be
 Best Model Selection: The model with the best performance based on the evaluation will be selected.
 
 ### Conclusion:
-The neural network model's higher AUC and sensitivity indicate its greater ability to distinguish between customers who will and will not generate revenue, making it the most valuable tool for targeted customer engagement.
+The neural network´s higher AUC and sensitivity indicate its greater ability to distinguish between customers who will and will not generate revenue, making it the most valuable tool for targeted customer engagement.
 
 #### Additional Information:
 AUC (Area Under the ROC Curve): this metric measures the ability of a model to distinguish between two classes (e.g., customers who generate revenue and those who do not).
